@@ -1,7 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" tvg-country="IL" tvg-url="" group-title="",Kan 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+
+
 #EXTINF:-1 tvg-id="12" tvg-name="12" extra="3" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="",keshet 12 HD
 https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/12.js
+
+#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
 
 #EXTINF:-1 tvg-id="12" tvg-name="12" extra="3" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",Keshet 12 CC
 https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/12cc
@@ -34,10 +42,6 @@ https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" tvg-country="IL" tvg-url="" group-title="",Kabbalah
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" tvg-country="IL" tvg-url="" group-title="",Kan 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-
 #EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" extra="2" tvg-country="IL" tvg-url="" group-title="",Kan 11 2
 http://x7wjmog
 
@@ -47,9 +51,6 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
 #EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת SD
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_1.m3u8
-
-#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 
