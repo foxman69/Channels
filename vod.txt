@@ -1,0 +1,40 @@
+{
+    "list": [
+        {
+            "id": 0,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png",
+            "showtv": "true",
+            "works": "true"
+        },
+        {
+            "id": 2,
+            "img": "https://www.kan.org.il/images/logo_ogImageKan.jpg",
+            "showtv": "true",
+            "works": "true"
+        },
+        {
+            "id": 3,
+            "img": "https://i.ibb.co/wWtTnn6/20.png",
+            "showtv": "true",
+            "works": "false"
+        },
+        {
+            "id": 5,
+            "img": "https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg",
+            "showtv": "true",
+            "works": "true"
+        },
+        {
+            "id": 6,
+            "img": "https://upload.wikimedia.org/wikipedia/he/thumb/a/ad/Sport5ch.svg/1920px-Sport5ch.svg.png",
+            "showtv": "true",
+            "works": "true"
+        },
+        {
+            "id": 1,
+            "img": "https://i.ibb.co/qBKNrv5/keshet.png",
+            "showtv": "true",
+            "works": "false"
+        }
+    ]
+}
