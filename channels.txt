@@ -9,8 +9,8 @@ https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/12.js
 #EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="12" extra="3" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",Keshet 12 CC
-https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/12cc
+#EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" extra="3" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-country="IL" tvg-url="" group-title="Religious",24
+https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/24
 
 #EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/BBC%20Food.png" tvg-country="UK" tvg-url="" group-title="",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -21,9 +21,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-id="Docudrama" tvg-name="Docudrama" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/Docudrama.png" tvg-country="UK" tvg-url="" group-title="",Docudrama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" extra="3" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-country="IL" tvg-url="" group-title="Religious",24
-https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/24
-
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/CNN.png" tvg-country="UK" tvg-url="" group-title="",Docudrama
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="" group-title="Shop",ch 21 ערוץ הקניות
 https://shoppingil-rewriter.vidnt.com/index.m3u8
