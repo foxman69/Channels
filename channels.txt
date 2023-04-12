@@ -24,6 +24,9 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/CNN.png" tvg-country="UK" tvg-url="" group-title="",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="NASA" tvg-name="NASA" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/NASA.png" tvg-country="UK" tvg-url="" group-title="",NASA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
 #EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="" group-title="Shop",ch 21 ערוץ הקניות
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
