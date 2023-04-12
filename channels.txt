@@ -12,7 +12,7 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 #EXTINF:-1 tvg-id="12" tvg-name="12" extra="3" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",Keshet 12 CC
 https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/12cc
 
-#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" extra="" seekable="true" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiq-P2sOXVP3GoYgpt3WVUQw0L6BKevGqQVw&usqp=CAU" tvg-country="DE" tvg-url="" group-title="",BBC Food
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/blob/main/BBC%20Food.png?raw=true" tvg-country="UK" tvg-url="" group-title="",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" extra="3" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-country="IL" tvg-url="" group-title="Religious",24
@@ -39,12 +39,6 @@ https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 
 https://channel9b
-
-#EXTINF:-1 tvg-id="" extra="3" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 source 2
-https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/9.js
-
-#EXTINF:-1 tvg-id="" extra="3" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 source 3
-https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/9b.js
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.alllies.org/wp-content/uploads/2012/01/hapach_Hagadol.jpg" tvg-country="IL" tvg-url="" group-title="",האח הגדול
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
