@@ -77,13 +77,13 @@ https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport5
 https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport1
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/1.png" tvg-country="IL" tvg-url="" group-title="",1
-http://live.redtraffic.net/woman.m3u8
+https://live.redtraffic.net/woman.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/2.jpg" tvg-country="IL" tvg-url="" group-title="",2
-http://cdn.adultiptv.net/threesome.m3u8
+https://cdn.adultiptv.net/threesome.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/3.png" tvg-country="IL" tvg-url="" group-title="",3
-http://cdn.adultiptv.net/pornstar.m3u8
+https://cdn.adultiptv.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/4.png" tvg-country="IL" tvg-url="" group-title="",4
-http://live.redtraffic.xyz/bigtits.m3u8
+https://live.redtraffic.xyz/bigtits.m3u8
