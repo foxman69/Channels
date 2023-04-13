@@ -76,14 +76,14 @@ https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport5
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg" tvg-country="IL" tvg-url="" group-title="",Sport 1 (not 24/7)
 https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport1
 
-#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/1.png" tvg-country="IL" tvg-url="" group-title="",1
+#EXTINF:-1 tvg-id="" tvg-name="" extra="" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/1.png" tvg-country="IL" tvg-url="" group-title="",1
 https://live.redtraffic.net/woman.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/2.jpg" tvg-country="IL" tvg-url="" group-title="",2
+#EXTINF:-1 tvg-id="" tvg-name="" extra="" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/2.jpg" tvg-country="IL" tvg-url="" group-title="",2
 https://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/3.png" tvg-country="IL" tvg-url="" group-title="",3
+#EXTINF:-1 tvg-id="" tvg-name="" extra="" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/3.png" tvg-country="IL" tvg-url="" group-title="",3
 https://cdn.adultiptv.net/pornstar.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/4.png" tvg-country="IL" tvg-url="" group-title="",4
+#EXTINF:-1 tvg-id="" tvg-name="" extra="" tvg-language="" tvg-logo="https://github.com/foxman69/Channels/raw/main/4.png" tvg-country="IL" tvg-url="" group-title="",4
 https://live.redtraffic.xyz/bigtits.m3u8
