@@ -1,0 +1,77 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" tvg-country="IL" tvg-url="" group-title="",Kan 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="12" extra="3" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="",keshet 12 HD
+https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/12.js
+
+#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" extra="3" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-country="IL" tvg-url="" group-title="Religious",24
+https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/24
+
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/BBC%20Food.png" tvg-country="UK" tvg-url="" group-title="",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="BBC Home" tvg-name="BBC Home" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/BBC%20Home.png" tvg-country="UK" tvg-url="" group-title="",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/CNN.png" tvg-country="UK" tvg-url="" group-title="",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="NASA" tvg-name="NASA" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/NASA.png" tvg-country="UK" tvg-url="" group-title="",NASA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodTV" tvg-name="FoodTV" extra="" seekable="true" tvg-language="English" tvg-logo="https://i.imgur.com/WGUPTnL.png" tvg-country="UK" tvg-url="" group-title="",FoodTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="iFoodTV" tvg-name="iFoodTV" extra="" seekable="true" tvg-language="English" tvg-logo="https://i.imgur.com/cBOkQtS.png" tvg-country="UK" tvg-url="" group-title="",iFoodTV
+https://ifood-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoTraveler" tvg-name="GoTraveler" extra="" seekable="true" tvg-language="English" tvg-logo="https://i.imgur.com/IaRcN1G.png" tvg-country="UK" tvg-url="" group-title="",GoTraveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Travel" tvg-name="Pluto TV Travel" extra="" seekable="true" tvg-language="English" tvg-logo="https://i.imgur.com/hgJ1Z0w.png" tvg-country="UK" tvg-url="" group-title="",Pluto TV Travel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c01b1953680139c6ae9d4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=678&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="24 Hours Movies" tvg-name="24 Hours Movies" extra="" seekable="true" tvg-language="English" tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-country="UK" tvg-url="" group-title="",24 Hours Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
+
+
+#EXTINF:-1 tvg-id="Rakuten TV Action Movies UK" tvg-name="Rakuten TV Action Movies UK" extra="" seekable="true" tvg-language="English" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-country="UK" tvg-url="" group-title="",Rakuten TV Action Movies UK
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC East" tvg-name="AMC East" extra="" seekable="true" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" tvg-country="UK" tvg-url="" group-title="",AMC East
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="" group-title="Shop",ch 21 ערוץ הקניות
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" tvg-country="IL" tvg-url="" group-title="Kids",ch 23 החינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="|IL| 1. ISRAEL",KNESSET
+https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
+
+#EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14
+https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/3/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" tvg-country="IL" tvg-url="" group-title="Religious",Hidabroot
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" tvg-country="IL" tvg-url="" group-title="",Kabbalah
+https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 
+https://channel9b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.alllies.org/wp-content/uploads/2012/01/hapach_Hagadol.jpg" tvg-country="IL" tvg-url="" group-title="",האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg" tvg-country="IL" tvg-url="" group-title="",Sport (not 24/7)
+https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport5
+
+#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg" tvg-country="IL" tvg-url="" group-title="",Sport 1 (not 24/7)
+https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport1
