@@ -75,3 +75,12 @@ https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport5
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg" tvg-country="IL" tvg-url="" group-title="",Sport 1 (not 24/7)
 https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport1
+
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://raw.githubusercontent.com/foxman69/Channels/main/Kan11Logo.png" tvg-country="IL" tvg-url="" group-title="",Kan 11
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/kan11_hevc/live.livx/playlist.m3u8?fmp4&renditions
+
+#EXTINF:-1 tvg-id="12" tvg-name="12" extra="3" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="",Keshet 12 HD
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions
+
+#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
