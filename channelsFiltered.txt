@@ -48,6 +48,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6
 #EXTINF:-1 tvg-id="24 Hours Movies" tvg-name="24 Hours Movies" extra="" seekable="true" tvg-language="English" tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-country="UK" tvg-url="" group-title="",24 Hours Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/yes_TV_ACTION_118x104.jpg" tvg-country="IL" tvg-url="" group-title="",Yes Action Movies
+https://raw.githubusercontent.com/foxman69/Channels/main/yes_action
+
+#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/yes_MOVIES_KIDS_118x104.jpg" tvg-country="IL" tvg-url="" group-title="",Yes Kids
+https://raw.githubusercontent.com/foxman69/Channels/main/yes_kids
+
+#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/yes_TV_COMEDY_118x104.jpg" tvg-country="IL" tvg-url="" group-title="",Yes Comedy
+https://raw.githubusercontent.com/foxman69/Channels/main/yes_comedy
 
 #EXTINF:-1 tvg-id="Rakuten TV Action Movies UK" tvg-name="Rakuten TV Action Movies UK" extra="" seekable="true" tvg-language="English" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-country="UK" tvg-url="" group-title="",Rakuten TV Action Movies UK
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
