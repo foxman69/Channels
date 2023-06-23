@@ -18,3 +18,6 @@ https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/62407
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" tvg-country="IL" tvg-url="" group-title="",Cartoon Network
 https://raw.githubusercontent.com/foxman69/Channels/main/CartoonNetwork
+
+#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" tvg-country="IL" tvg-url="" group-title="",NickJR
+https://raw.githubusercontent.com/foxman69/Channels/main/NickJR
