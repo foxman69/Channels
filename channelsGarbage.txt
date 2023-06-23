@@ -33,3 +33,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Discovery_HD_logo_2009.png/300px-Discovery_HD_logo_2009.png" tvg-country="IL" tvg-url="" group-title="",Discovery HD
 https://raw.githubusercontent.com/foxman69/Channels/main/discoveryHD
 
+#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png" tvg-country="IL" tvg-url="" group-title="",National Geographic
+https://raw.githubusercontent.com/foxman69/Channels/main/NationalGeohraphic
