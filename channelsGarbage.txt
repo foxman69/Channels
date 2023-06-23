@@ -9,6 +9,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/CNN.png" tvg-country="UK" tvg-url="" group-title="",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" extra="" seekable="true" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" tvg-country="UK" tvg-url="" group-title="",CBS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
 #EXTINF:-1 tvg-id="NASA" tvg-name="NASA" extra="" seekable="true" tvg-language="English" tvg-logo="https://github.com/foxman69/Channels/raw/main/NASA.png" tvg-country="UK" tvg-url="" group-title="",NASA
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
