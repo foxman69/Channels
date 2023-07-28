@@ -41,6 +41,3 @@ https://raw.githubusercontent.com/foxman69/Channels/main/Eurosport1
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="IL" tvg-url="" group-title="",Eurosport 2
 https://raw.githubusercontent.com/foxman69/Channels/main/Eurosport2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="IL" tvg-url="" group-title="",Eurosport Test
-https://ddy1.cdndac.lol/ddy1/premium545/playlist.m3u8
