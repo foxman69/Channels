@@ -4,7 +4,7 @@
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="12" extra="3" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="",Keshet 12 HD
-https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/12.js
+https://raw.githubusercontent.com/foxman69/Channels/main/12.js
 
 #EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
@@ -19,16 +19,16 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/liv
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
 
 #EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" extra="3" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-country="IL" tvg-url="" group-title="Religious",24
-https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/24
+https://raw.githubusercontent.com/foxman69/Channels/main/24
 
 #EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14
 https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/2/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://www.sport5.co.il/Images/Rebrand/sport5og.png" tvg-country="IL" tvg-url="" group-title="",Sport 5
-https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport5
+https://raw.githubusercontent.com/foxman69/Channels/main/sport5
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/05/sport1-green-sagol-1.png" tvg-country="IL" tvg-url="" group-title="",Sport 1 (not 24/7)
-https://raw.githubusercontent.com/RGdevz/rgdevz.github.io/master/assets/sport1
+https://raw.githubusercontent.com/foxman69/Channels/main/sport1
 
 #EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" tvg-country="IL" tvg-url="" group-title="Kids",ch 23 החינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
