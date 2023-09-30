@@ -54,3 +54,11 @@ https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream12/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics3
 https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream13/.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics4
+https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream14/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics5
+https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream15/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics6
+https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream16/.m3u8
