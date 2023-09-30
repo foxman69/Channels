@@ -44,3 +44,7 @@ https://raw.githubusercontent.com/foxman69/Channels/main/Eurosport1
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="IL" tvg-url="" group-title="",Eurosport 2
 https://raw.githubusercontent.com/foxman69/Channels/main/Eurosport2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics 1
+https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream11/.m3u8
+
