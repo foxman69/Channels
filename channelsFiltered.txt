@@ -24,6 +24,9 @@ https://raw.githubusercontent.com/foxman69/Channels/main/24
 #EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 
+#EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/ch14_hevc/live.livx/playlist.m3u8?fmp4&renditions
+
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://www.sport5.co.il/Images/Rebrand/sport5og.png" tvg-country="IL" tvg-url="" group-title="",Sport 5
 https://raw.githubusercontent.com/foxman69/Channels/main/sport5
 
