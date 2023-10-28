@@ -38,27 +38,3 @@ https://raw.githubusercontent.com/foxman69/Channels/main/discoveryHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png" tvg-country="IL" tvg-url="" group-title="",National Geographic
 https://raw.githubusercontent.com/foxman69/Channels/main/NationalGeographic
-
-#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="IL" tvg-url="" group-title="",Eurosport 1
-https://raw.githubusercontent.com/foxman69/Channels/main/Eurosport1
-
-#EXTINF:-1 tvg-id="" tvg-name="" extra="3" tvg-language="" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="IL" tvg-url="" group-title="",Eurosport 2
-https://raw.githubusercontent.com/foxman69/Channels/main/Eurosport2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics1
-https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream11/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics2
-https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream12/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics3
-https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream13/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics4
-https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream14/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics5
-https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream15/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.freepik.com/premium-vector/gymnastics-logo_565520-509.jpg" tvg-country="IL" tvg-url="" group-title="",All Gymnastics6
-https://ebu.daiconnect.com/live/hls/ebu/medbeachgames-stream16/.m3u8
