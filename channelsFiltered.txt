@@ -21,6 +21,9 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/liv
 #EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" extra="3" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-country="IL" tvg-url="" group-title="Religious",24
 https://raw.githubusercontent.com/foxman69/Channels/main/24
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Relevant_logo.jpeg" group-title="",Relevant
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
+
 #EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 
