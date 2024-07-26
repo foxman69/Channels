@@ -39,9 +39,14 @@ https://shoppingil-rewriter.vidnt.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sport5.co.il/Images/Rebrand/sport5og.png" tvg-country="IL" tvg-url="" group-title="",Sport 5 Direct
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" tvg-country="IL" tvg-url="" group-title="",Olympics 2024 Opening Test
-https://olymprox.servehttp.com/ssai/event/Dgd0XzkfSn-nwwOdRBg-qQ/streams
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" tvg-country="IL" tvg-url="" group-title="",Olympics 2024 Opening
 https://olymprox.servehttp.com/ssai/event/t1NEqh6xSGSMNKXLnA4o_g/streams
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" tvg-country="IL" tvg-url="" group-title="",Olympics 2024 Table Tenis 1
+https://olymprox.servehttp.com/ssai/event/EsD6iv4TShqx7vZe5WKivw/streams
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" tvg-country="IL" tvg-url="" group-title="",Olympics 2024 Table Tenis 2
+https://olymprox.servehttp.com/ssai/event/6ZNi9S2ESN-OIVeRwBBEjA/streams
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" tvg-country="IL" tvg-url="" group-title="",Olympics 2024 Table Tenis quaterfinals
+https://olymprox.servehttp.com/ssai/event/UVX18WPCTmWyeDJ41xdLlQ/streams
